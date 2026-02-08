@@ -1,0 +1,1 @@
+# hitalk-cfg-gen
